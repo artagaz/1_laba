@@ -9,7 +9,7 @@ class CalculatorWindow(QMainWindow):
 
     def initUI(self):
         self.setGeometry(300, 300, 900, 100)
-        self.setWindowTitle('Калькулятор')
+        self.setWindowTitle('Calculator')
 
         # layout
         central_widget = QWidget()
