@@ -1,6 +1,5 @@
 import sys
-from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QPushButton,
-                             QLineEdit, QCheckBox, QGridLayout, QLabel)
+from PyQt6.QtWidgets import QApplication, QMainWindow, QWidget, QPushButton, QLineEdit, QCheckBox, QGridLayout, QLabel
 
 
 class VisibilityControlWindow(QMainWindow):
