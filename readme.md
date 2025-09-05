@@ -1,4 +1,5 @@
 <h1>calculator</h1>
+<img src="images/calc.png" alt="calc">
 ![screenshot](images/calc.png)
 <h1>calculator_plus</h1>
 ![screenshot](images/calc_full)
