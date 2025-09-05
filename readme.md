@@ -1,5 +1,5 @@
 <h1>calculator</h1>
-![screenshot](images/calc.png)
+![screenshot](/images/calc.png)
 <h1>calculator_plus</h1>
 ![screenshot](images/calc_full)
 <h1>morse</h1>
