@@ -45,6 +45,7 @@ class CalculatorApp(QMainWindow):
     def reset_calculator(self):
         self.current_input = ""
         self.waiting_for_operand = True
+
         self.display.setText("0")
 
     def on_button_click(self, text):
