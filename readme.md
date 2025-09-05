@@ -1,12 +1,12 @@
 <h1>calculator</h1>
-![screenshot](imageFolder/screenshot.png)
+![screenshot](images/calc.png)
 <h1>calculator_plus</h1>
-![screenshot](imageFolder/screenshot.png)
+![screenshot](images/calc_full)
 <h1>morse</h1>
-![screenshot](imageFolder/screenshot.png)
+![screenshot](images/morse.png)
 <h1>restaurant</h1>
-![screenshot](imageFolder/screenshot.png)
+![screenshot](images/restik.png)
 <h1>swap words</h1>
-![screenshot](imageFolder/screenshot.png)
+![screenshot](images/swap.png)
 <h1>widgets</h1>
-![screenshot](imageFolder/screenshot.png)
+![screenshot](images/widget)
