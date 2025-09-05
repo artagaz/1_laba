@@ -1,13 +1,17 @@
 <h1>calculator</h1>
 <img src="images/calc.png" alt="calc">
-![screenshot](images/calc.png)
+
 <h1>calculator_plus</h1>
-![screenshot](images/calc_full)
+<img src="images/calc_full.png" alt="calc">
+
 <h1>morse</h1>
-![screenshot](images/morse.png)
+<img src="images/morse.png" alt="calc">
+
 <h1>restaurant</h1>
-![screenshot](images/restik.png)
+<img src="images/restik.png" alt="calc">
+
 <h1>swap words</h1>
-![screenshot](images/swap.png)
+<img src="images/swap.png" alt="calc">
+
 <h1>widgets</h1>
-![screenshot](images/widget)
+<img src="images/widget.png" alt="calc">
